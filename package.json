@@ -12,6 +12,7 @@
   "dependencies": {
     "nuxt": "^3.13.2",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "gsap": "3.12.5"
   }
 }
