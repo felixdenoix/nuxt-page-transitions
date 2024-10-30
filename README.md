@@ -1,4 +1,10 @@
-# Nuxt Minimal Starter
+# Nuxt page transitions tests
+
+Test repo for page transitions in nuxt.
+
+The `main` branch is displaying page transitions using gsap and JS transitions.
+
+---
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
